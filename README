@@ -1,0 +1,21 @@
+Author
+======
+
+Xiangjian Gou
+
+Introduction
+============
+
+DeSudoku : A fast tool for decoding standard 9x9 Sudoku.
+It is written in PERL5.
+
+Usage
+=====
+
+DeSudoku.pl  is source code
+DeSudoku.exe is binary file
+
+Email
+=====
+
+If you have any question or suggestion, please contact me. (xjgou@stu.sicau.edu.cn)
